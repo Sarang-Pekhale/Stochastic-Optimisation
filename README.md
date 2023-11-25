@@ -1,6 +1,6 @@
 # Stochastic Optimization Algorithms
 
-This repository contains Python implementations of various stochastic optimization algorithms for solving complex optimization problems.
+This repository contains Python implementations of various stochastic optimization algorithms for solving complex optimization problems such as Travelling Salesman Problem, Predefined Dataset, and Doctor's and Patient's Idle time.
 
 ## Algorithms Included
 
